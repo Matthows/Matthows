@@ -1,5 +1,17 @@
-## Hi there 👋
+## Hi there ✌
+I'm [Mattia](https://it.linkedin.com/in/mattia-firrisi-bb4670329), a fullstack developer based in Italy.
 
+I design and build whatever I can imagine.
+
+My main tech stack is javascript, nextjs, python, java. 
+
+I've got a bunch of pinned projects, but my favourite is [...]() where I conducted data analysis. 
+
+**Hobbies:** 
+ * Music
+ * Gaming
+ * Film
+ * Cocking
 <!--
 **Matthows/Matthows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
