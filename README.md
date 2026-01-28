@@ -3,7 +3,7 @@ I'm [Mattia](https://it.linkedin.com/in/mattia-firrisi-bb4670329), a fullstack d
 
 I design and build whatever I can imagine.
 
-Most technology that I used is js-core (node.js, express.js, next.js), python, java. 
+Most technology that I use is js-core (node.js, express.js, next.js), python, java. 
 
 I've got a bunch of pinned projects, but my favourite is [analderby-football-derby-analytics](https://github.com/Matthows/analderby-football-derby-analytics) where I conducted data analysis. 
 
