@@ -11,7 +11,7 @@ I've got a bunch of pinned projects, but my favourite is [analderby-football-der
  * Music
  * Gaming
  * Film
- * Cocking
+ * Cooking
 <!--
 **Matthows/Matthows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
