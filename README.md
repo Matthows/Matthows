@@ -3,7 +3,7 @@ I'm [Mattia](https://it.linkedin.com/in/mattia-firrisi-bb4670329), a fullstack d
 
 I design and build whatever I can imagine.
 
-My main tech stack is js-core, nextjs, python, java. 
+My main tech stack is js-core (express.js, nect.js), python, java. 
 
 I've got a bunch of pinned projects, but my favourite is [analderby-football-derby-analytics](https://github.com/Matthows/analderby-football-derby-analytics) where I conducted data analysis. 
 
