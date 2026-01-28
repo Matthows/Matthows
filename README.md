@@ -1,4 +1,4 @@
-## Hi there! A Linux Lover here! ✌
+## Hey there! Linux Lover here! ✌
 I'm [Mattia](https://it.linkedin.com/in/mattia-firrisi-bb4670329), a fullstack developer based in Italy.
 
 I design and build whatever I can imagine.
