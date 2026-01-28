@@ -5,7 +5,7 @@ I design and build whatever I can imagine.
 
 My main tech stack is javascript, nextjs, python, java. 
 
-I've got a bunch of pinned projects, but my favourite is [...]() where I conducted data analysis. 
+I've got a bunch of pinned projects, but my favourite is [analderby-football-derby-analytics](https://github.com/Matthows/analderby-football-derby-analytics) where I conducted data analysis. 
 
 **Hobbies:** 
  * Music
